@@ -70,9 +70,13 @@ Yukarıda yaptığımız analizdeki şartları sağlamak amacıyla sistemimiz a�
 <small>*( Geliştirme işlemi devam ediyor …)*</small>
 * Self servis temassız kart verme ve yükleme otomatı.
 
-### Oyun alanı yönetim programı ile yapabilecekleriniz:
+![Bilesenler](img/bilesenler.png)
+Resim : Etkileşimli oyun alanı.
 
-![](img/ana_ekran1.jpg)Resim: Oyun alanı yönetim programı ana ekranı.
+### Oyun alanı yönetim programı ile yapabilecekleriniz:
+###
+
+![Ana Ekran](img/ana_ekran1.jpg)Resim: Oyun alanı yönetim programı ana ekranı.
 
 1. Kartlı sistemlerde kartı şifreleme-kontur yükleme ve web- yerel veri tabanına kaydetme. Kart bilgisini görme. Ayar kartları oluşturma.
 2. Kart stok takibi. Mevcut durumun web-yerel veri tabanına kaydetme.
@@ -100,6 +104,7 @@ Yukarıda yaptığımız analizdeki şartları sağlamak amacıyla sistemimiz a�
     * Misafir bilgi güncelleme yapma.
     * Hızlı grup misafir kaydı yapma.
 9. Top ve kum havuzları için abonelik oluşturma ve gelen abonelerin ödemelerini temassız karttan alabilme.
+###
 ![abone :](img/abone_ekrani.jpg)Resim : Kum-top  havuzu abone işlemleri.
 
 10. Farklı çalışma modları:
@@ -119,7 +124,9 @@ Yukarıda yaptığımız analizdeki şartları sağlamak amacıyla sistemimiz a�
 15. Her oyun makinesinin kablosuz ağdaki durumunu gösterme ve oyun makinelerindeki jeton kanallarına ait çeşitli ayarları yapma
 
 ### Kartlı Sistem Jeton Kanalı Yükleme Cihazı Özellikleri :
-![](img/kart_okuyucu_yukleyici.png)![](img/kart_okuyucu_yukleyici2.png)Resim : Yükleme cihazı PCB görünümü.
+###
+![](img/kart_okuyucu_yukleyici.png)  ![](img/kart_okuyucu_yukleyici2.png)
+Resim : Yükleme cihazı PCB görünümü.
 
 1. Mikrodenetleyici tabanlı gömülü sistem mimarisine göre dizayn edilmiş tasarım..
 2. MIFARE kartları şifreleme, kontur yükleme, okuma, silme işlemlerini yapma.
@@ -145,6 +152,7 @@ Yukarıda yaptığımız analizdeki şartları sağlamak amacıyla sistemimiz a�
 7. Kablosuz olarak gelen ayar bilgilerini alma ve uygulama.
 
 ### Bulut Sistemi (Web ve mobil ) Özellikleri :
+###
 ![](img/web.png)Resim : Bulut sisteminde bulunan web sayfası anlık ve son gun sonu görünümü.
 
 1. Günlük ve anlık müşteri sayısını, ciroyu vb.  takip edebilme.
@@ -153,7 +161,10 @@ Yukarıda yaptığımız analizdeki şartları sağlamak amacıyla sistemimiz a�
 4. Farklı raporlama seçenekleri.
 5. Süre ve fiyatları güncelleme.
 6. İşletmecinin oyun alanı hakkında çeşitli verilerin analizlerini yapabilmesini sağlama.
+ 
+Yukarıda anlatılan bütün bu çözüm yaklaşımlarının yanında işletmecinin isteğine göre oyun alanının yapısına uygun farklı çözümler de geliştirilerek işletmeciye sunulabilmektedir.
 
+![](img/draw-icon.png) 08.06.2021 YOYUNCAK ARGE ve DANIŞMANLIK  
 
 
 
