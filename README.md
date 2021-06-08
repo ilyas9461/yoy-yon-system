@@ -126,6 +126,7 @@ Resim : Etkileşimli oyun alanı.
 ### Kartlı Sistem Jeton Kanalı Yükleme Cihazı Özellikleri :
 ###
 ![](img/kart_okuyucu_yukleyici.png)  ![](img/kart_okuyucu_yukleyici2.png)
+
 Resim : Yükleme cihazı PCB görünümü.
 
 1. Mikrodenetleyici tabanlı gömülü sistem mimarisine göre dizayn edilmiş tasarım..
