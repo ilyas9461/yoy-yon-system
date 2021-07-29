@@ -1,4 +1,4 @@
-# **Yoyuncak Oyun Alanı Yönetim Sistemi**
+# **Yoyuncak Oyun Alanı Yönetim Sistemi** /# **Playground Management System Project**
 Oyun alanlarına yatırım yapan insanlar gelen müşterilerin eğlenerek güzel vakit geçirmelerini amaçlamaktadır. Bunun için buralarda yetişkinlere ve çocuklara yönelik oyuncaklar ve oyun etkinlikleri bulunmaktadır. 
 
 Oyun alanlarındaki oyuncakları ve oyun etkinliklerini aşağıdaki gibi gruplayabiliriz;
