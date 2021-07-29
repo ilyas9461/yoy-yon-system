@@ -1,5 +1,5 @@
 # **Yoyuncak Oyun Alanı Yönetim Sistemi**
-# [Playground Management System Project](#Playground)
+# [English Version](#English)
 
 Oyun alanlarına yatırım yapan insanlar gelen müşterilerin eğlenerek güzel vakit geçirmelerini amaçlamaktadır. Bunun için buralarda yetişkinlere ve çocuklara yönelik oyuncaklar ve oyun etkinlikleri bulunmaktadır. 
 
@@ -169,10 +169,12 @@ Yukarıda anlatılan bütün bu çözüm yaklaşımlarının yanında işletmeci
 
 ![](img/draw-icon.png) 08.06.2021 YOYUNCAK ARGE ve DANIŞMANLIK  
 
-## Playground
-## Management System Project
+## English
+## Playground Management System Project
 
 People investing in playgrounds aim to have their customers have a good time while having fun. For this, there are toys and game activities for adults and children.
+
+We can group the toys and game activities in the playgrounds as follows;
 
 
 
