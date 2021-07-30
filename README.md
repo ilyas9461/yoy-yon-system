@@ -5,15 +5,17 @@ Oyun alanlarına yatırım yapan insanlar gelen müşterilerin eğlenerek güzel
 
 Oyun alanlarındaki oyuncakları ve oyun etkinliklerini aşağıdaki gibi gruplayabiliriz;
 
-* Soft alanlar: Top havuzları, trambolin parklar vb.
+* Soft alanlar: top havuzları, trambolin parkları vb.
 * Kum havuzları.
-* Jeton veya kart ile çalışan oyuncaklar:
+* Jetonlu veya kartlı oyuncaklar:
     1. Ekranlı oyuncaklar.
-    2. Kiddie Rides, olarak adlandırılan ekranlı yada binek tip oyuncaklar.
+    2. Kiddie Rides adı verilen çocuk gurubu oyuncaklar.
+    3. Air Hokey, langırt vb. oyuncaklar.
 
 Bir oyun alanında yukarıdaki gruplardan bir veya bir kaçı aynı anda bulunurlar. 
 
-Her bir işletmeci işletmesini en verimli ve kazançlı hale getirebilmek için bu alana giren müşterilerin ödedikleri ücretleri, oyun sürelerini, kampanyaları yönetmek ister. Sonuçta işletmeci bu işten **para kazanmak** için yatırım yapar. 
+Her oyun alanı işletmecisi, işini en verimli ve karlı hale getirmek için bu alana giren müşterilerin ödediği ücretleri, oyun sürelerini, kampanyaları ve çalıştırdığı personeli yönetmek ister. Bu amaçla  da oluşturduğu işletme senaryosunu takip eder, değerlendirir gerekirse de güncellemeler yapar.
+Sonuçta işletmeci bu işten para kazanmak için yatırım yapar.
 
 İyi yönetim iyi kazanç getirir.
 
@@ -71,6 +73,7 @@ Yukarıda yaptığımız analizdeki şartları sağlamak amacıyla sistemimiz a�
 
 <small>*( Geliştirme işlemi devam ediyor …)*</small>
 * Self servis temassız kart verme ve yükleme otomatı.
+* Mobil ödeme-çalıştırma sistemi.
 
 ![Bilesenler](img/bilesenler.png)
 Resim : Etkileşimli oyun alanı.
@@ -175,8 +178,128 @@ Yukarıda anlatılan bütün bu çözüm yaklaşımlarının yanında işletmeci
 People investing in playgrounds aim to have their customers have a good time while having fun. For this, there are toys and game activities for adults and children.
 
 We can group the toys and game activities in the playgrounds as follows;
+* Soft areas: ball pools, trampoline parks, etc.
+* Sandboxes.
+* Toys with coins or cards:
+    1. Display toys.
+    2. Kids group toys called Kiddie Rides.
+    3. Air Hockey, table football, etc. toys.
 
 
+One or more of the above groups are present in a playground at the same time.
+
+Every playground operator wants to manage the wages, game times, campaigns and staff it employs for customers entering the space in order to make its business most efficient and profitable. For this purpose, it follows the business scenario it has created, evaluates it and makes updates if necessary.
+After all, the operator invests to earn money from this business.
+
+<p  align="center">
+    <img src="./img/alan.jpg" width="70%" height="50%" border: 5px solid #555 >
+</p>
+<div align="center"> Picture : Example of playground. </div>
+<br>
+We can summarize the processes that the customers who come to the game center/area from the moment they arrive:
+
+1. The customer chooses the game machine or activity.
+2. It receives coins or loads contours to the contactless card.
+3. If she/he prefers the game machine, she makes the game machine read the card or throw a coin.
+4. If you use Ball Pool or sandbox etc. has chosen;         
+    * Sets the residence time.
+    * Pays (by cash, credit card, token, contactless card, etc.) for the required fee amount.
+    * At the end of the time, the officer contacts her/his family to remove the guest from the playground.
+<br><br>
 
 
+<p  align="center">
+    <img src="./img/kum_havuzu.jpg" width="100%" height="100%" border: 5px solid #555 >
+</p>
+<div align="center"> Picture : Example of Sandbox.. </div>
+
+This scenario is about the same in many playgrounds.
+
+
+<p  align="left">
+    <img src="./img/Money-icon.png" width="10%" height="50%" border: 5px solid #555 >
+    Considering today's technologies, even in this simple approach, for an effective and efficient management:
+</p>
+
+1. Daily and instant earnings should be known and retrospective weekly-monthly-yearly etc. should be stored and viewed when necessary.
+2. The number of daily or instant customers should be tracked and recorded.
+3. If the business uses contactless cards, the cards in use and stock should be tracked.
+4. Campaigns etc. should be reflected in the wage system and be followed.
+5. If products are sold in the business, the sales and stocks of these products should be tracked and recorded.
+6. In the ball pool and sandbox, customers should have different time options.
+7. There should be a customer tracking and payment system for customers in the ball pool and sandbox.
+8. It should be recorded and tracked how much is gained from which toy or game activity on a daily and instantaneous basis.
+9. There should be alternative solutions against a number of possible problems in the system (PC breakdown, internet connection failures, etc.).
+
+The business owner should be able to access the transactions specified and recorded in all the above-mentioned articles instantly and retrospectively over the web and mobile.
+
+Thus, the business owner can evaluate the situation instantly-daily-weekly-monthly-yearly, etc., according to customer interest and relevance, time and pricing, changing or updating the game machine, number of personnel, etc. can decide and be able to apply changes to the playing field.
+
+<p  align="left">
+    <img src="./img/human-brain-icon_72x72.png" width="8%" height="10%" border: 5px solid #555 >
+    <strong>Yoyuncak Playground Management System approach </strong> aims to enable the owner of the playground to use the playground in the most efficient and profitable way by providing various solutions for all necessary components according to the structure of the playground and the management scenario to be applied.
+    All these solutions presented aim to fully cover the issues discussed above. Components suitable for the needs of the business owner are applied to the playground.
+</p>
+
+## Components of YOYUNCAK Playground Management System
+In order to meet the conditions in the analysis we made above, our system consists of the following elements
+* Playground management software.
+* Contactless card electronic coin channel and loading device. (Wireless communication and IoT continue to be developed.).
+* Cloud systems and Dashboard (Web and mobile).
+
+<small>*( Development continues…)*</small>
+* Self-service contactless card issuing and loading machine.
+* Mobile payment and run system.
+
+<p  align="center">
+    <img src="./img/bilesenler.png" width="90%" height="100%" border: 5px solid #555 >
+</p>
+<div align="center"> Picture : Interactive playground... </div>
+<br>
+
+### What you can do with the playground management program:
+<br>
+<p  align="center">
+    <img src="./img/ana_ekran1.jpg" width="90%" height="100%" border: 5px solid #555 >
+</p>
+<div align="center"> 
+    Picture : Playground management program main screen. 
+</div>
+<br>
+
+1. Encrypting the card in contactless card systems, uploading the contour and saving it to the web-local database. View card information and  creating setting cards.
+2. Card stock tracking. Saving the current state to the web-local database.
+3. Performing end of day transaction or cashier transfer transaction and saving in web-local database.
+4. Product sales and stock tracking. Saving the current state in the web-local database.
+5. Ability to login with manager and cashier passwords and add cashiers as desired.
+6. To be able to follow the cashiers' entry and exit from the program.
+7. Showing various lists (cancellation, timed, indefinite, daily, etc.) in the sand/ball pool to keep track of customers in time.
+8. Follow-up of customers in sandboxes and ball pools:
+    * Registration of customers in the pool at the first login, registration in the web-local database.
+    * Printing guest start and end times on label paper. (For guest security and follow-up)
+    * Identifying and pricing different customer lengths of playing time.
+    * Ability to collect the fee for the selected playing time from cash, credit card and contactless card.
+    * Showing the number of instant daily customers inside, saving to web-local database.
+    * Tracking the customers who are in the sandbox and ball pool at the same time separately.
+    * Ability to notify the cashier 5 minutes before customers expire.
+    * Freezing the time in the processes of allowing customers (toilet, meal, etc.).
+    * Ability to remove customers from the pool.
+    * Customer search by name.
+    * Ability to follow the customer's shoe number if there is a shoe rack.
+    * Ability to apply cancellation operation and restoring the canceled contour to the contactless card after cancellation.
+    * Ability to follow promotions and campaigns.
+    * Ability to apply various discount options and campaigns (sibling discount, etc.).
+    * Ability to switch between determined time tariffs or to give additional time to the customer (up to the determined tariffs). 
+    The ability to apply a discount to the customer who receives a discount, even when switching between time tariffs.
+    * Ability to update guest information.
+    * Quick group guest registration.
+9. Creating subscriptions for ball pool and sandboxes and receiving payments from incoming subscribers via contactless cards.
+
+<p  align="center">
+    <img src="./img/abone_ekrani.jpg" width="90%" height="100%" border: 5px solid #555 >
+</p>
+<div align="center"> 
+    Picture : Sand and ball pool subscription transactions.
+</div>
+10. Different operating modes:
 
