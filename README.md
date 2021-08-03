@@ -1,6 +1,6 @@
 # **Yoyuncak Oyun Alanı Yönetim Sistemi**
 
-# [English Version](#English)
+# [YOYUNCAK Playground Management System](#English)
 
 Oyun alanlarına yatırım yapan insanlar gelen müşterilerin eğlenerek güzel vakit geçirmelerini amaçlamaktadır. Bunun için buralarda yetişkinlere ve çocuklara yönelik oyuncaklar ve oyun etkinlikleri bulunmaktadır.
 
