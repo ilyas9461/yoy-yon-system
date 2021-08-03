@@ -130,7 +130,7 @@ Resim : Etkileşimli oyun alanı.
 
 ### Kartlı Sistem Jeton Kanalı Yükleme Cihazı Özellikleri :
 ###
-![](img/kart_okuyucu_yukleyici.png)  ![](img/kart_okuyucu_yukleyici2.png)
+![](img/kart_okuyucu_yukleyici.png)![](img/kart_okuyucu_yukleyici2.png)
 
 Resim : Yükleme cihazı PCB görünümü.
 
@@ -144,6 +144,7 @@ Resim : Yükleme cihazı PCB görünümü.
 
 6. Kablosuz jeton kanallarıyla birlikte bir kablosuz ağ oluşturma ve ağı yönetebilme. Kablosuz jeton kanallarından gelen bilgileri web-yerel veri tabanına kaydedilmek üzere PC ye gönderme.
 7. Oyun makinelerinin çeşitli ayarlarını kablosuz olarak gerçekleştirme.
+8. Web üzerinden erişilebilir olmak.
 
 ### Kartlı Sistem Jeton Kanalı Özellikleri :
 1. Mikrodenetleyici tabanlı gömülü sistem mimarisine göre dizayn edilmiş tasarım.
@@ -302,4 +303,78 @@ In order to meet the conditions in the analysis we made above, our system consis
     Picture : Sand and ball pool subscription transactions.
 </div>
 10. Different operating modes:
+
+With these operating modes, the program can perform and report different functions at different points in a playground.  For example, at the entrance of the playground, it can load contours on the contactless card in sales mode and sell products. It works in tracking mode at any point where timely tracking of the ball pool or sandbox or the customer is required.
+   
+* Sales Operation Mode: The program only performs card loading and product sales. Turnover is calculated from here at the end of the day.
+
+* Tracking Mode : The program only tracks the sand and ball pool.
+* Sales-Follow-up Mode: The program performs both sales and follow-up.
+11. It follows the deposit information if the cards belong to them or if they are wanted to be used.
+12. It can show instant usage information of each card.
+13. Collecting and recording information from each toy in the desired period with the data collection card.
+
+<small>*( Development continues…)*</small>
+
+14. The contactless card system receives the information of the game machines coming wirelessly to the electronic contour loading device and saves it in the web-local database.
+15. Showing the status of each gaming machine in the wireless network and making various settings of the coin channels on the gaming machines.
+
+## Contactless Card System Electronic Coin Loading Device Features
+
+<p  align="center">
+    <img src="./img/kart_okuyucu_yukleyici.png" width="40%" height="40%" border: 5px solid #555 >
+     <img src="./img/kart_okuyucu_yukleyici2.png" width="41%" height="41%" border: 5px solid #555 >
+</p>
+<div align="center"> 
+    Picture : Contactless card system electronic coin channel loading device PCB view.
+</div>
+<br>
+
+1. Design based on microcontroller based embedded system architecture.
+2. Encrypting, top-up, reading, deleting MIFARE cards.
+3. Working independently from PC. (With the touch screen programming panel. It is optionally made separately.)
+4. Connecting to PC as plug-and-play (no driver installation required).
+5. Audible and light status indicators.
+
+<small>*( Development continues…)*</small>
+
+6. Creating and managing a wireless network. Sending information from wireless electronic coin devices to PC for saving in web-local database.
+7. Performing various settings of gaming machines wirelessly.
+8. Being accessible via the web.
+
+## Contactless Card System Electronic Coin Device Features
+
+1. Design based on microcontroller based embedded system architecture.
+2. Ability to read MIFARE cards . Can receive payments from eligible contactless cards.
+3. Audible and light status indicators.
+4. Settings can be changed with setting cards.
+5. Easy to install instead of conventional coin devices.
+
+<small>*( Development continues…)*</small>
+
+6. Wirelessly sending data to the host.
+7. Receiving and applying settings information wirelessly.
+8. Being accessible via the web.
+
+## Cloud System (Web and mobile) Features:
+
+<p  align="center">
+    <img src="./img/web.png" width="100%" height="100%" border: 5px solid #555 >
+</p>
+<div align="center"> 
+    Picture : Instant and end-of-day view of the web page (dashboard) in the cloud system.
+</div>
+<br>
+
+1. Ability to track data such as daily and instantaneous number of customers and turnover over the web.
+2. See end of day transactions.
+3. Keeping track of cashier entries.
+4. Different reporting options and graphical representation.
+5. Update times and prices.
+6. Ability to enable the business owner to analyze various data related to the playground.
+
+<p  align="left">
+    <img src="./img/draw-icon.png" width="10%" height="10%" border: 5px solid #555 >
+    08.06.2021 YOYUNCAK R&D and CONSULTANCY
+</p>
 
