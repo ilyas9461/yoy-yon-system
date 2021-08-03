@@ -173,8 +173,8 @@ Yukarıda anlatılan bütün bu çözüm yaklaşımlarının yanında işletmeci
 
 ![](img/draw-icon.png) 08.06.2021 YOYUNCAK ARGE ve DANIŞMANLIK  
 
-## English
-## Playground Management System Project
+### English
+## YOYUNCAK Playground Management System 
 
 People investing in playgrounds aim to have their customers have a good time while having fun. For this, there are toys and game activities for adults and children.
 
