@@ -1,18 +1,19 @@
 # **Yoyuncak Oyun Alanı Yönetim Sistemi**
+
 # [English Version](#English)
 
-Oyun alanlarına yatırım yapan insanlar gelen müşterilerin eğlenerek güzel vakit geçirmelerini amaçlamaktadır. Bunun için buralarda yetişkinlere ve çocuklara yönelik oyuncaklar ve oyun etkinlikleri bulunmaktadır. 
+Oyun alanlarına yatırım yapan insanlar gelen müşterilerin eğlenerek güzel vakit geçirmelerini amaçlamaktadır. Bunun için buralarda yetişkinlere ve çocuklara yönelik oyuncaklar ve oyun etkinlikleri bulunmaktadır.
 
 Oyun alanlarındaki oyuncakları ve oyun etkinliklerini aşağıdaki gibi gruplayabiliriz;
 
 * Soft alanlar: top havuzları, trambolin parkları vb.
 * Kum havuzları.
 * Jetonlu veya kartlı oyuncaklar:
-    1. Ekranlı oyuncaklar.
-    2. Kiddie Rides adı verilen çocuk gurubu oyuncaklar.
-    3. Air Hokey, langırt vb. oyuncaklar.
+  1. Ekranlı oyuncaklar.
+  2. Kiddie Rides adı verilen çocuk gurubu oyuncaklar.
+  3. Air Hokey, langırt vb. oyuncaklar.
 
-Bir oyun alanında yukarıdaki gruplardan bir veya bir kaçı aynı anda bulunurlar. 
+Bir oyun alanında yukarıdaki gruplardan bir veya bir kaçı aynı anda bulunurlar.
 
 Her oyun alanı işletmecisi, işini en verimli ve karlı hale getirmek için bu alana giren müşterilerin ödediği ücretleri, oyun sürelerini, kampanyaları ve çalıştırdığı personeli yönetmek ister. Bu amaçla  da oluşturduğu işletme senaryosunu takip eder, değerlendirir gerekirse de güncellemeler yapar.
 Sonuçta işletmeci bu işten para kazanmak için yatırım yapar.
@@ -25,38 +26,31 @@ Resim : Oyun alanı örneği.
 Oyun merkezine/alanına gelen müşterilerin geldiği andan itibaren geçirdikleri süreçleri şu şekilde özetleyebiliriz:
 
 1. Müşteri oyun makinesi veya etkinliği seçer.
-2. Jeton alır veya karta kontur yükletir.   
+2. Jeton alır veya karta kontur yükletir.
 3. Eğer oyun makinesini tercih etti ise kartı okutur veya jeton atar.
 4. Eğer Top Havuzu veya kum havuzunu vb. seçti ise ;
-    * Kalma süresini belirler.
-    * Gerekli ücret miktarı için ödeme (Nakit, kredi kartı, jeton, temassız kart vb. ile) yapar. 
-    * Görevli süre bitiminde oyun alanından misafiri çıkartmak için ailesi ile iletişime geçer.
-  
-  ![kum havuzu](img/kum_havuzu.jpg)
-  Resim : Kum havuzu.
-  
- Bu senaryo birçok oyun alanında yaklaşık aynıdır.
-  
-  ![Yönetim](img/Money-icon.png)Günümüz teknolojileri de dikkate alınarak bu basit yaklaşımda bile etkili ve verimli bir yönetim için :
- 1. Günlük ve anlık kazanç bilinmeli ve geriye dönük haftalık-aylık-yıllık vb. saklanarak gerektiğinde incelenebilir olmalı. 
- 
- 2. Günlük veya anlık müşteri sayısı takip edilebilmeli ve kaydedilmeli.
- 
- 3. İşletme kart kullanıyorsa kullanımdaki kartlar ve stok takip edilebilmeli.
- 
- 4. İşletmede yapılan kampanyalar vb. ücret sistemine yansıtılmalı ve takip edilebilmeli.
- 
- 5. İşletmede ürün satışı yapılıyorsa bu ürünlerin satışı ve stok takibi yapılıp kaydedilmeli.
- 
- 6. Top havuzu ve kum havuzunda müşterilere farklı süre seçenekleri olmalı.
+   * Kalma süresini belirler.
+   * Gerekli ücret miktarı için ödeme (Nakit, kredi kartı, jeton, temassız kart vb. ile) yapar.
+   * Görevli süre bitiminde oyun alanından misafiri çıkartmak için ailesi ile iletişime geçer.
 
- 7. Top havuzu ve kum havuzunda bulunan müşteriler için müşteri takip ve ödeme sistemi olmalı.
+![kum havuzu](img/kum_havuzu.jpg)
+Resim : Kum havuzu.
 
- 8. Anlık ve günlük olarak hangi oyuncaktan veya oyun etkinliğinden ne kadar kazanıldığı kaydedilmeli ve takibi yapılmalı.
+Bu senaryo birçok oyun alanında yaklaşık aynıdır.
 
- 9. Sistemde yaşanması muhtemel bir takım problemlere (PC bozulması, internet bağlantı arızaları vb.)  karşı alternatif çözümler olmalı.
- 
-Yukarıda sayılan bütün maddelerde belirtilen konulara işletmeci tarafından web ve mobil  üzerinden anlık ve geriye dönük olarak erişilebilir olmalı. 
+![Yönetim](img/Money-icon.png)Günümüz teknolojileri de dikkate alınarak bu basit yaklaşımda bile etkili ve verimli bir yönetim için :
+
+1. Günlük ve anlık kazanç bilinmeli ve geriye dönük haftalık-aylık-yıllık vb. saklanarak gerektiğinde incelenebilir olmalı.
+2. Günlük veya anlık müşteri sayısı takip edilebilmeli ve kaydedilmeli.
+3. İşletme kart kullanıyorsa kullanımdaki kartlar ve stok takip edilebilmeli.
+4. İşletmede yapılan kampanyalar vb. ücret sistemine yansıtılmalı ve takip edilebilmeli.
+5. İşletmede ürün satışı yapılıyorsa bu ürünlerin satışı ve stok takibi yapılıp kaydedilmeli.
+6. Top havuzu ve kum havuzunda müşterilere farklı süre seçenekleri olmalı.
+7. Top havuzu ve kum havuzunda bulunan müşteriler için müşteri takip ve ödeme sistemi olmalı.
+8. Anlık ve günlük olarak hangi oyuncaktan veya oyun etkinliğinden ne kadar kazanıldığı kaydedilmeli ve takibi yapılmalı.
+9. Sistemde yaşanması muhtemel bir takım problemlere (PC bozulması, internet bağlantı arızaları vb.)  karşı alternatif çözümler olmalı.
+
+Yukarıda sayılan bütün maddelerde belirtilen konulara işletmeci tarafından web ve mobil  üzerinden anlık ve geriye dönük olarak erişilebilir olmalı.
 
 Böylece işletmeci anlık-günlük-haftalık-aylık-yıllık vb. durum değerlendirmesi yaparak müşteri ilgi ve alakasına göre süre ve fiyatlandırmada, oyun makinesi değiştirme yada güncelleme, personel sayısı vb. değişikliklere karar verip uygulayabilmelidir.
 
@@ -72,6 +66,7 @@ Yukarıda yaptığımız analizdeki şartları sağlamak amacıyla sistemimiz a�
 * Bulut sistemi (Web ve mobil ).
 
 <small>*( Geliştirme işlemi devam ediyor …)*</small>
+
 * Self servis temassız kart verme ve yükleme otomatı.
 * Mobil ödeme-çalıştırma sistemi.
 
@@ -79,6 +74,7 @@ Yukarıda yaptığımız analizdeki şartları sağlamak amacıyla sistemimiz a�
 Resim : Etkileşimli oyun alanı.
 
 ### Oyun alanı yönetim programı ile yapabilecekleriniz:
+
 ###
 
 ![Ana Ekran](img/ana_ekran1.jpg)Resim: Oyun alanı yönetim programı ana ekranı.
@@ -91,36 +87,36 @@ Resim : Etkileşimli oyun alanı.
 6. Kasiyerlerin programa giriş ve çıkışlarının takibini yapabilme.
 7. Havuzdaki (Kum-top) müşterileri zamanı olarak takip etme açısından çeşitli listeleri (iptal, süreli, süresiz, günlük vb) gösterme.
 8. Kum havuzu ve top havuzlarındaki müşterilerin takip edilmesi;
-    * Havuzdaki müşterilerin ilk girişte kaydını alma, web-yerel veri tabanına kaydetme.
-    * Etiket kâğıdına misafir başlama ve bitiş zamanlarını yazdırarak bir tanesini misafirin sırtına yapıştırma diğerini de müşteriye verme. (Misafir güvenliği ve takip için)
-    * Müşterinin farklı kalma sürelerini belirleyebilme ve bunları fiyatlandırma.
-    * Seçilen süreyle ilgili ücreti, nakit, kredi kartı ve temassız karttan tahsil edebilme.
-    * İçerde bulunan anlık günlük müşteri sayısını gösterme web-yerel veri tabanına kaydetme.
-    * Aynı anda kum havuzu ve top havuzunda bulunan müşterileri ayrı ayrı takip etme.
-    * Müşterilerin süresi bitmeden 5dk öncesinde kasiyere haber verme. 
-    * Müşterilere izin verme (tuvalet, yemek vb.) işlemlerinde süreyi dondurma.
-    * Müşterileri havuz dışına alma.
-    * İsme göre müşteri arama.
-    * Ayakkabılık varsa müşteri ayakkabı no takibi yapma.
-    * İptal işlemi uygulayabilme. İptal işleminden sonra temassız karta iptal edilen kontürün geri yüklenmesi.
-    * Promasyon ve kampanya takibi yapabilme.
-    * Çeşitli indirim seçenekleri uygulayabilme( kardeş indirimi vb.).
-    * Belirlenen süre tarifeleri arasında geçiş yapma veya müşteriye ek süre (belirlenen tarifeler kadar) verebilme. İndirim alan misafire süre geçişlerinde de indirim uygulama.
-    * Misafir bilgi güncelleme yapma.
-    * Hızlı grup misafir kaydı yapma.
-9. Top ve kum havuzları için abonelik oluşturma ve gelen abonelerin ödemelerini temassız karttan alabilme.
-###
-![abone :](img/abone_ekrani.jpg)Resim : Kum-top  havuzu abone işlemleri.
 
+   * Havuzdaki müşterilerin ilk girişte kaydını alma, web-yerel veri tabanına kaydetme.
+   * Etiket kâğıdına misafir başlama ve bitiş zamanlarını yazdırarak bir tanesini misafirin sırtına yapıştırma diğerini de müşteriye verme. (Misafir güvenliği ve takip için)
+   * Müşterinin farklı kalma sürelerini belirleyebilme ve bunları fiyatlandırma.
+   * Seçilen süreyle ilgili ücreti, nakit, kredi kartı ve temassız karttan tahsil edebilme.
+   * İçerde bulunan anlık günlük müşteri sayısını gösterme web-yerel veri tabanına kaydetme.
+   * Aynı anda kum havuzu ve top havuzunda bulunan müşterileri ayrı ayrı takip etme.
+   * Müşterilerin süresi bitmeden 5dk öncesinde kasiyere haber verme.
+   * Müşterilere izin verme (tuvalet, yemek vb.) işlemlerinde süreyi dondurma.
+   * Müşterileri havuz dışına alma.
+   * İsme göre müşteri arama.
+   * Ayakkabılık varsa müşteri ayakkabı no takibi yapma.
+   * İptal işlemi uygulayabilme. İptal işleminden sonra temassız karta iptal edilen kontürün geri yüklenmesi.
+   * Promasyon ve kampanya takibi yapabilme.
+   * Çeşitli indirim seçenekleri uygulayabilme( kardeş indirimi vb.).
+   * Belirlenen süre tarifeleri arasında geçiş yapma veya müşteriye ek süre (belirlenen tarifeler kadar) verebilme. İndirim alan misafire süre geçişlerinde de indirim uygulama.
+   * Misafir bilgi güncelleme yapma.
+   * Hızlı grup misafir kaydı yapma.
+9. Top ve kum havuzları için abonelik oluşturma ve gelen abonelerin ödemelerini temassız karttan alabilme.
+   ###
+   ![abone :](img/abone_ekrani.jpg)Resim : Kum-top  havuzu abone işlemleri.
 10. Farklı çalışma modları:
 
     Program bu çalışma modları ile bir oyun alanında farklı noktalarda farklı işlevleri gerçekleştirip raporlayabilmektedir. Örneğin Oyun alanının girişinde satış modunda temassız karta kontür yükleyip ürün satılmasını sağlarken top havuzu veya kum havuzunun ya da müşterinin süreli takibinin yapılması gereken herhangi bir noktada takip modunda çalışmaktadır.
-    
+
     * Satış Çalışma Modu : Program sadece kart yükleme ve ürün satışı işlemlerini gerçekleştirir. Gün sonunda ciro buradan hesaplanır.
     * Takip Çalışma Modu : Programı sadece kum ve top havuzunun takibini yapar.
     * Satış-Takip Çalışma Modu : Program hem satış hem de takip yapar
 11. Kartlara ait varsa yada kullanılmak isteniyorsa deposito bilgilerini takip eder.
-12. Her bir karttın anlık olarak kullanım bilgisini gösterebilir. 
+12. Her bir karttın anlık olarak kullanım bilgisini gösterebilir.
 13. Veri toplama kartı ile her oyuncaktan istenilen peryotta bilgi toplama ve kaydetme.
 
 <small>*( Geliştirme işlemi devam ediyor …..)*</small>
@@ -129,6 +125,7 @@ Resim : Etkileşimli oyun alanı.
 15. Her oyun makinesinin kablosuz ağdaki durumunu gösterme ve oyun makinelerindeki jeton kanallarına ait çeşitli ayarları yapma
 
 ### Kartlı Sistem Jeton Kanalı Yükleme Cihazı Özellikleri :
+
 ###
 ![](img/kart_okuyucu_yukleyici.png)![](img/kart_okuyucu_yukleyici2.png)
 
@@ -147,18 +144,22 @@ Resim : Yükleme cihazı PCB görünümü.
 8. Web üzerinden erişilebilir olmak.
 
 ### Kartlı Sistem Jeton Kanalı Özellikleri :
+
 1. Mikrodenetleyici tabanlı gömülü sistem mimarisine göre dizayn edilmiş tasarım.
 2. Şifrelemesine uygun MIFARE kartları okuyabilme. Kontur miktarını düşüp karta tekrar geri yükleme ve son durumu gösterme.
 3. Işıklı se sesli uyarı.
 4. Ayar kartlarıyla ayarları değiştirilebilir olma.
-5. 	Klasik jeton kanalları yerine kolayca monte edilme.
+5. Klasik jeton kanalları yerine kolayca monte edilme.
 
 <small>*( Geliştirme işlemi devam ediyor …..)*</small>
 
 6. Kablosuz olarak verileri ana makineye gönderme.
 7. Kablosuz olarak gelen ayar bilgilerini alma ve uygulama.
 
+[Örnek çalışma videosu için tıklayınız...](https://www.youtube.com/watch?v=HQXXSq4kj5shttps:/)
+
 ### Bulut Sistemi (Web ve mobil ) Özellikleri :
+
 ###
 ![](img/web.png)Resim : Bulut sisteminde bulunan web sayfası anlık ve son gun sonu görünümü.
 
@@ -168,24 +169,25 @@ Resim : Yükleme cihazı PCB görünümü.
 4. Farklı raporlama seçenekleri.
 5. Süre ve fiyatları güncelleme.
 6. İşletmecinin oyun alanı hakkında çeşitli verilerin analizlerini yapabilmesini sağlama.
- 
+
 Yukarıda anlatılan bütün bu çözüm yaklaşımlarının yanında işletmecinin isteğine göre oyun alanının yapısına uygun farklı çözümler de geliştirilerek işletmeciye sunulabilmektedir.
 
-![](img/draw-icon.png) 08.06.2021 YOYUNCAK ARGE ve DANIŞMANLIK  
+![](img/draw-icon.png) 08.06.2021 YOYUNCAK ARGE ve DANIŞMANLIK
 
 ### English
-## YOYUNCAK Playground Management System 
+
+## YOYUNCAK Playground Management System
 
 People investing in playgrounds aim to have their customers have a good time while having fun. For this, there are toys and game activities for adults and children.
 
 We can group the toys and game activities in the playgrounds as follows;
+
 * Soft areas: ball pools, trampoline parks, etc.
 * Sandboxes.
 * Toys with coins or cards:
-    1. Display toys.
-    2. Kids group toys called Kiddie Rides.
-    3. Air Hockey, table football, etc. toys.
-
+  1. Display toys.
+  2. Kids group toys called Kiddie Rides.
+  3. Air Hockey, table football, etc. toys.
 
 One or more of the above groups are present in a playground at the same time.
 
@@ -202,12 +204,11 @@ We can summarize the processes that the customers who come to the game center/ar
 1. The customer chooses the game machine or activity.
 2. It receives coins or loads contours to the contactless card.
 3. If she/he prefers the game machine, she makes the game machine read the card or throw a coin.
-4. If you use Ball Pool or sandbox etc. has chosen;         
-    * Sets the residence time.
-    * Pays (by cash, credit card, token, contactless card, etc.) for the required fee amount.
-    * At the end of the time, the officer contacts her/his family to remove the guest from the playground.
-<br><br>
-
+4. If you use Ball Pool or sandbox etc. has chosen;
+   * Sets the residence time.
+   * Pays (by cash, credit card, token, contactless card, etc.) for the required fee amount.
+   * At the end of the time, the officer contacts her/his family to remove the guest from the playground.
+     <br><br>
 
 <p  align="center">
     <img src="./img/kum_havuzu.jpg" width="100%" height="100%" border: 5px solid #555 >
@@ -215,7 +216,6 @@ We can summarize the processes that the customers who come to the game center/ar
 <div align="center"> Picture : Example of Sandbox.. </div>
 
 This scenario is about the same in many playgrounds.
-
 
 <p  align="left">
     <img src="./img/Money-icon.png" width="10%" height="50%" border: 5px solid #555 >
@@ -243,12 +243,15 @@ Thus, the business owner can evaluate the situation instantly-daily-weekly-month
 </p>
 
 ## Components of YOYUNCAK Playground Management System
+
 In order to meet the conditions in the analysis we made above, our system consists of the following elements
+
 * Playground management software.
 * Contactless card electronic coin channel and loading device. (Wireless communication and IoT continue to be developed.).
 * Cloud systems and Dashboard (Web and mobile).
 
 <small>*( Development continues…)*</small>
+
 * Self-service contactless card issuing and loading machine.
 * Mobile payment and run system.
 
@@ -259,6 +262,7 @@ In order to meet the conditions in the analysis we made above, our system consis
 <br>
 
 ### What you can do with the playground management program:
+
 <br>
 <p  align="center">
     <img src="./img/ana_ekran1.jpg" width="90%" height="100%" border: 5px solid #555 >
@@ -276,24 +280,24 @@ In order to meet the conditions in the analysis we made above, our system consis
 6. To be able to follow the cashiers' entry and exit from the program.
 7. Showing various lists (cancellation, timed, indefinite, daily, etc.) in the sand/ball pool to keep track of customers in time.
 8. Follow-up of customers in sandboxes and ball pools:
-    * Registration of customers in the pool at the first login, registration in the web-local database.
-    * Printing guest start and end times on label paper. (For guest security and follow-up)
-    * Identifying and pricing different customer lengths of playing time.
-    * Ability to collect the fee for the selected playing time from cash, credit card and contactless card.
-    * Showing the number of instant daily customers inside, saving to web-local database.
-    * Tracking the customers who are in the sandbox and ball pool at the same time separately.
-    * Ability to notify the cashier 5 minutes before customers expire.
-    * Freezing the time in the processes of allowing customers (toilet, meal, etc.).
-    * Ability to remove customers from the pool.
-    * Customer search by name.
-    * Ability to follow the customer's shoe number if there is a shoe rack.
-    * Ability to apply cancellation operation and restoring the canceled contour to the contactless card after cancellation.
-    * Ability to follow promotions and campaigns.
-    * Ability to apply various discount options and campaigns (sibling discount, etc.).
-    * Ability to switch between determined time tariffs or to give additional time to the customer (up to the determined tariffs). 
-    The ability to apply a discount to the customer who receives a discount, even when switching between time tariffs.
-    * Ability to update guest information.
-    * Quick group guest registration.
+   * Registration of customers in the pool at the first login, registration in the web-local database.
+   * Printing guest start and end times on label paper. (For guest security and follow-up)
+   * Identifying and pricing different customer lengths of playing time.
+   * Ability to collect the fee for the selected playing time from cash, credit card and contactless card.
+   * Showing the number of instant daily customers inside, saving to web-local database.
+   * Tracking the customers who are in the sandbox and ball pool at the same time separately.
+   * Ability to notify the cashier 5 minutes before customers expire.
+   * Freezing the time in the processes of allowing customers (toilet, meal, etc.).
+   * Ability to remove customers from the pool.
+   * Customer search by name.
+   * Ability to follow the customer's shoe number if there is a shoe rack.
+   * Ability to apply cancellation operation and restoring the canceled contour to the contactless card after cancellation.
+   * Ability to follow promotions and campaigns.
+   * Ability to apply various discount options and campaigns (sibling discount, etc.).
+   * Ability to switch between determined time tariffs or to give additional time to the customer (up to the determined tariffs).
+     The ability to apply a discount to the customer who receives a discount, even when switching between time tariffs.
+   * Ability to update guest information.
+   * Quick group guest registration.
 9. Creating subscriptions for ball pool and sandboxes and receiving payments from incoming subscribers via contactless cards.
 
 <p  align="center">
@@ -305,11 +309,11 @@ In order to meet the conditions in the analysis we made above, our system consis
 10. Different operating modes:
 
 With these operating modes, the program can perform and report different functions at different points in a playground.  For example, at the entrance of the playground, it can load contours on the contactless card in sales mode and sell products. It works in tracking mode at any point where timely tracking of the ball pool or sandbox or the customer is required.
-   
-* Sales Operation Mode: The program only performs card loading and product sales. Turnover is calculated from here at the end of the day.
 
+* Sales Operation Mode: The program only performs card loading and product sales. Turnover is calculated from here at the end of the day.
 * Tracking Mode : The program only tracks the sand and ball pool.
 * Sales-Follow-up Mode: The program performs both sales and follow-up.
+
 11. It follows the deposit information if the cards belong to them or if they are wanted to be used.
 12. It can show instant usage information of each card.
 13. Collecting and recording information from each toy in the desired period with the data collection card.
@@ -377,4 +381,3 @@ With these operating modes, the program can perform and report different functio
     <img src="./img/draw-icon.png" width="10%" height="10%" border: 5px solid #555 >
     08.06.2021 YOYUNCAK R&D and CONSULTANCY
 </p>
-
