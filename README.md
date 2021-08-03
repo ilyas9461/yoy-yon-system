@@ -60,7 +60,7 @@ Böylece işletmeci anlık-günlük-haftalık-aylık-yıllık vb. durum değerle
 
 Yukarıda yaptığımız analizdeki şartları sağlamak amacıyla sistemimiz aşağıdaki öğelerden oluşmaktadır.
 
-* Oyun alanı yönetim programı.
+* [Oyun alanı yönetim programı.](./Oyun-Alani-Yonetim-Programi-c#/img/abone_ekrani.jpg)
 * Kartlı sistem jeton kanalı yükleme cihazı. (Kablosuz haberleşme ve IOT  arge de).
 * Kartlı sistem jeton kanalları (Kablosuz haberleşme ve IOT arge de).
 * Bulut sistemi (Web ve mobil ).
