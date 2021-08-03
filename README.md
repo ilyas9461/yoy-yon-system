@@ -360,6 +360,8 @@ With these operating modes, the program can perform and report different functio
 7. Receiving and applying settings information wirelessly.
 8. Being accessible via the web.
 
+[Click for sample working video...](https://www.youtube.com/watch?v=HQXXSq4kj5shttps:/)
+
 ## Cloud System (Web and mobile) Features:
 
 <p  align="center">
