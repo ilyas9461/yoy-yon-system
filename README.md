@@ -172,6 +172,8 @@ Resim : Yükleme cihazı PCB görünümü.
 
 Yukarıda anlatılan bütün bu çözüm yaklaşımlarının yanında işletmecinin isteğine göre oyun alanının yapısına uygun farklı çözümler de geliştirilerek işletmeciye sunulabilmektedir.
 
+Demo için , [Bulut Sistemi Giriş Sayfası](http://157.230.229.168:3000/) ...
+
 ![](img/draw-icon.png) 08.06.2021 YOYUNCAK ARGE ve DANIŞMANLIK
 
 ### English
@@ -378,6 +380,8 @@ With these operating modes, the program can perform and report different functio
 4. Different reporting options and graphical representation.
 5. Update times and prices.
 6. Ability to enable the business owner to analyze various data related to the playground.
+
+For demo, [Cloud System Login Page](http://157.230.229.168:3000/) ...
 
 <p  align="left">
     <img src="./img/draw-icon.png" width="10%" height="10%" border: 5px solid #555 >
